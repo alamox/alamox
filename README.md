@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Adrián Álamo Castro</h1>
+<h1 align="center">¡Hola! 👋, soy Adrián Álamo Castro</h1>
 <h3 align="center">Un apasionado Programador de España</h3>
 
-- 💬 Ask me about **Java, Jakarta EE, Hibernate, Maven, SpringBoot, Eclipse, JavaScript, HTML, CSS, React, MySQL, Workbench, Angular, Microsoft PowerApps, Android (Android Studio)**
+- 💬 Preguntame sobre **Java, Jakarta EE, Hibernate, Maven, SpringBoot, Eclipse, JavaScript, HTML, CSS, React, MySQL, Workbench, Angular, Microsoft PowerApps, Android (Android Studio)**
 
-- 📫 How to reach me **adrala99@gmail.com**
+- 📫 Puedes contactamre en **adrala99@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ adrián-álamo-castro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ adrián-álamo-castro" height="30" width="40" /></a>
 </p>
