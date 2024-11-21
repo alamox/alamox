@@ -1,7 +1,8 @@
 <h1 align="center">¡Hola! 👋, soy Adrián Álamo Castro</h1>
 <h3 align="center">Un apasionado Programador de España</h3>
 
-- 💬 Preguntame sobre **Java, SpringBoot, JavaScript, HTML, CSS, React, MySQL**
+- 💬 Preguntame sobre **Java, Jakarta EE, Hibernate, Maven, SpringBoot, Eclipse, JavaScript, HTML, CSS, React,
+MySQL, Workbench, Microsoft PowerApps, Android**
 
 - 📫 Puedes contactamre en **adrala99@gmail.com**
 
